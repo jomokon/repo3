@@ -13,7 +13,7 @@
         <project.hibernate.version>5.0.7.Final</project.hibernate.version>
 
 
-        <spring.version>4.2.4.RELEASE</spring.version>
+        <spring.version>5.3.19</spring.version>
         <slf4j.version>1.6.6</slf4j.version>
         <c3p0.version>0.9.1.2</c3p0.version>
         <mysql.version>5.1.6</mysql.version>
